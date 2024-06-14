@@ -1,0 +1,13 @@
+
+class: a blueprint for objects, can contain methods and attributes
+instance: a blueprint for class, can contain class methods and properties
+
+abstraction: exposing only "relevant" data in a class interface, hiding private attributes and methods from users.
+encapsulation
+
+We follow conventions, leave things along that are designated private
+
+
+## __name__: override something exists in Python like __init__
+## _nmae: name convention which not intended to use outside class
+# __nmae: name mangling, make this method unique to this class when using inheritance

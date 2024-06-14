@@ -1,0 +1,4 @@
+## a object can take multiple forms
+
+## 1. The same class methods works in similar way for different classes: override
+## 2. The same operation works for different kinds of objects: special methods
